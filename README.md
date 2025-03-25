@@ -5,3 +5,6 @@ Replace the .json file located in C:\Users\[USERNAME]\AppData\Roaming\BloodHound
 ![icons](https://i.imgur.com/LHsW0fW.png)
 
 Tweet me with questions/concerns/comments: https://twitter.com/Haus3c 
+
+## Location in Kali
+Place `customqueries.json` > `/home/kali/.config/bloodhound` 
